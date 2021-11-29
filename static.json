@@ -1,7 +1,8 @@
 {
  "headers": {
    "/*": {
-     "X-Author": "glazkopolina"
+     "X-Author": "glazkopolina",
+     "Access-Control-Allow-Origin": "*"
    }
   }
 }
